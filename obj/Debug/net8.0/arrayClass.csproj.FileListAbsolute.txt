@@ -1,0 +1,14 @@
+C:\Users\sumey\Source\repos\arrayClass\bin\Debug\net8.0\arrayClass.exe
+C:\Users\sumey\Source\repos\arrayClass\bin\Debug\net8.0\arrayClass.deps.json
+C:\Users\sumey\Source\repos\arrayClass\bin\Debug\net8.0\arrayClass.runtimeconfig.json
+C:\Users\sumey\Source\repos\arrayClass\bin\Debug\net8.0\arrayClass.dll
+C:\Users\sumey\Source\repos\arrayClass\bin\Debug\net8.0\arrayClass.pdb
+C:\Users\sumey\Source\repos\arrayClass\obj\Debug\net8.0\arrayClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sumey\Source\repos\arrayClass\obj\Debug\net8.0\arrayClass.AssemblyInfoInputs.cache
+C:\Users\sumey\Source\repos\arrayClass\obj\Debug\net8.0\arrayClass.AssemblyInfo.cs
+C:\Users\sumey\Source\repos\arrayClass\obj\Debug\net8.0\arrayClass.csproj.CoreCompileInputs.cache
+C:\Users\sumey\Source\repos\arrayClass\obj\Debug\net8.0\arrayClass.dll
+C:\Users\sumey\Source\repos\arrayClass\obj\Debug\net8.0\refint\arrayClass.dll
+C:\Users\sumey\Source\repos\arrayClass\obj\Debug\net8.0\arrayClass.pdb
+C:\Users\sumey\Source\repos\arrayClass\obj\Debug\net8.0\arrayClass.genruntimeconfig.cache
+C:\Users\sumey\Source\repos\arrayClass\obj\Debug\net8.0\ref\arrayClass.dll
